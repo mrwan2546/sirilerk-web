@@ -3,7 +3,7 @@
 >
 	<div class="text-center">
 		<h1 class="tracking-in-expand text-6xl font-bold tracking-[12px]">SIRILERK</h1>
-		<h4 class="text-focus-in font-light">Simplicity is the ultimate sophistication.</h4>
+		<h4 class="text-focus-in font-light">Made with by passion and make it happen.</h4>
 	</div>
 </main>
 
