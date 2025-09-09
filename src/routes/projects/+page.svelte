@@ -21,6 +21,16 @@
 			description: ''
 		},
 		{
+			url: 'https://github.com/mrwan2546/cakulabruh',
+			title: 'cakulabruh',
+			description: 'Full caculator with arithmetic expression algorithm'
+		},
+		{
+			url: 'https://github.com/mrwan2546/file-encryption',
+			title: 'file-encyp',
+			description: 'Encrypt & decrypt file with any extension'
+		},
+		{
 			url: 'https://github.com/mrwan2546/EnkaNetwork.py',
 			title: 'EnkaNetwork.py',
 			description: 'Library for fetching JSON data from site https://enka.network/ with Python'
