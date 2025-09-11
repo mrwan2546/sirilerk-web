@@ -27,7 +27,7 @@
 		},
 		{
 			url: 'https://github.com/mrwan2546/file-encryption',
-			title: 'file-encyp',
+			title: 'file-encryption',
 			description: 'Encrypt & decrypt file with any extension'
 		},
 		{
