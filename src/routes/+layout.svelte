@@ -37,6 +37,9 @@
 			<li class="hover-underline duration-300 hover:scale-[1.05]">
 				<a href="/projects" aria-label="My projects">{'<Project />'}</a>
 			</li>
+			<li class="hover-underline duration-300 hover:scale-[1.05]">
+				<a href="https://blog.sirilerk.com" aria-label="My blog">{'<Blog />'}</a>
+			</li>
 		</ul>
 	</aside>
 </div>
